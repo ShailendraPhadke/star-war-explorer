@@ -1,0 +1,4 @@
+.character-col {
+  flex: 0 0 250px !important;
+  max-width: 250px !important;
+}
